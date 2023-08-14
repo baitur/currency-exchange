@@ -28,7 +28,10 @@ Run the application using `npm start`.
 
 #### With Docker:
 Start both the application and PostgreSQL using `docker-compose up`.
-Fetch Latest Currency Rates: Run `npm run command fetch` to fetch and update the currency rates in the database.
+
+
+### Fetch Latest Currency Rates:
+Run `npm run command fetch` to fetch and update the currency rates in the database.
 
 ### Access the API:
 
